@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: black;
+}
+p{
+    color:grey
+}
+li{
+    color: gray;
+    margin-left: 580px;
+
+}
+.container1{
+    text-align: center;
+}
